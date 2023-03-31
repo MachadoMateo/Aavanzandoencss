@@ -1,0 +1,54 @@
+body{
+    background-color: cyan;
+}
+nav{
+    height: 200px;
+    border: 10px double red;
+    
+}
+main{
+    height: 800px;
+    background-color: blueviolet;
+    
+}
+footer{
+    height: 150px;
+    background-color: gold;
+    margin-top: 1opx;
+}
+
+.texto2{
+    background-color: blue;
+    color: bisque;
+    padding: 100px;
+}
+.titulo, .texto2{
+    text-align: center;
+    color: rgb(52, 15, 63);
+    font-size: 30px;
+    font-family: fantasy;
+    text-transform: capitalize;
+    text-decoration: overline;
+
+}
+.foto{
+    width: 30%;
+    height: 200px;
+    margin-top: 10px;
+    margin-right: 40px;
+}
+#fotomedio{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+p{
+    margin: 10px 0px 10px 0px;
+}
+#relleno{
+    background-color: blue;
+    color: rgb(22, 22, 22);
+    border: 1px solid red;
+    height: 100px 100px;
+    padding: 25px 10px;
+}
